@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Mahnoor Cheema
 
-<!--
-**MahnoorCheema-source/MahnoorCheema-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-semester Computer Science student  
+💻 Learning C++ and core programming concepts  
+🌱 Passionate about problem solving and continuous learning 
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- C++ (Beginner)
+- Programming Fundamentals
+- Logical Thinking
+- GitHub (Basic)
+  
+## 📁 Academic Projects
+- **C++ Practice Programs**  
+  Basic programs using loops, arrays, and conditional statements
+- **Logic Building Exercises**  
+  Beginner-level programs to improve problem-solving skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals
+- Strengthen programming fundamentals
+- Build small academic projects
+- Learn Git and version control in future semesters
+
+## 📫 Connect With Me
+- GitHub: https://github.com/MahnoorCheema-source
+- LinkedIn: https://linkedin.com/in/mahnoor-cheema-994371384
