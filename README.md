@@ -1,12 +1,13 @@
 # Hi 👋, I'm Mahnoor Cheema
 
-🎓 First-semester Computer Science student  
-💻 Learning C++ and core programming concepts  
+🎓 Third-semester Computer Science student  
+💻 Learning python and core programming concepts  
 🌱 Passionate about problem solving and continuous learning 
 
 ## 🔧 Skills
 - C++ (Beginner)
 - Programming Fundamentals
+- OOP
 - Logical Thinking
 - GitHub (Basic)
   
